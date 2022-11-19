@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 🥖
 
 <!--
 **minhduc0711/minhduc0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-testing 1 2 3
+I'm a M2 Data Science student at EURECOM, and I'm currently looking for an end-of-study internship in France!
 
 ![](https://github-readme-stats.vercel.app/api?username=minhduc0711&show_icons=true)
